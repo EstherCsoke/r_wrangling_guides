@@ -1,7 +1,7 @@
 ## Data wrangling
 library(tidyverse)
 
-## Styling format for code
+## Styling code
 library(styler)
 
 ## Import csv Data from file path
